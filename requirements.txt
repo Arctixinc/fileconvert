@@ -5,7 +5,6 @@ telegraph
 pykeyboard
 halo
 Wand
-tensorflow-cpu
 requests
 SpeechRecognition
 pydub
