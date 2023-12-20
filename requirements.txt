@@ -20,3 +20,4 @@ arrow
 plotly
 kaleido
 websocket-client
+tensorflow-cpu
