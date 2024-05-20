@@ -5,7 +5,6 @@ def decimalToBinary(n,size):
 
 def binaryToDecimal(n):
     return int(n,2) # converts binary to decimal
-
 def printNumbers(numList,N): # print the numbers from the given list
 
     display = ""
